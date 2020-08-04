@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for AVR\Examples\VTFT\Ready for XMEGA_FT800\simple_maze\simple_maze.mcpav
+Project1=MyProject.mcpav
+[ActiveProject]
+Index=1
